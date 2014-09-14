@@ -1,0 +1,4 @@
+[submodule "presalted-vagrant-ubuntu14"]
+	path = presalted-vagrant-ubuntu14
+	url = https://github.com/joshsmith2/presalted-vagrant-ubuntu14.git
+	branch = ubbox-test-driven-dev
